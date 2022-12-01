@@ -7,7 +7,7 @@
 }
 
 #bg1 {
-    
+
     width: 100%;
     height: 600px;
     position: absolute;
@@ -16,4 +16,28 @@
     padding-right: 100px;
     top: 0px;
     z-index: -1;
+}
+
+.txt1 {
+    position: absolute;
+    left: 120px;
+    top: 160px;
+    font-family: 'Lobster', cursive;
+    color: white;
+
+}
+
+.txt1 h1 {
+    font-size: 50px;
+}
+
+.bt2 {
+    position: absolute;
+    background-color: #390082;
+    color: aliceblue;
+    border-radius: 30px;
+    width: 110px;
+    height: 40px;
+    left: 120px;
+    top: 290px;
 }
