@@ -1,0 +1,53 @@
+#bg1 {
+    width: auto;
+    height: 90px;
+    background-color: rgba(244, 235, 255, 1);
+}
+
+#txt1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: rgba(57, 0, 130, 1);
+    font-size: 100px;
+}
+
+#img1 {
+    width: 450px;
+    height: 500px;
+    padding-top: 10px;
+}
+
+#txt2 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: rgba(57, 0, 130, 1);
+    font-size: 90px;
+    margin-top: 120px;
+}
+
+#bg2 {
+
+    width: auto;
+    height: 30px;
+    background-color: rgba(244, 235, 255, 1);
+}
+
+#txt3 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: rgba(57, 0, 130, 1);
+    font-size: 70px;
+}
+
+#txt4 {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+}
+#img2 {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+  
+}
